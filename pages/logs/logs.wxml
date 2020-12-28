@@ -1,0 +1,46 @@
+<!--logs.wxml-->
+<view class="i1">
+  <image src="/img/5.png"></image>
+</view>
+<view class="i2">
+  <image src="/img/6.png"></image>
+</view>
+<view class="i3">
+    <view class="i4">
+      <image src="/img/7.png"></image>
+    </view>
+    <view class="i5">
+      <view class="i6">1.肖申克的救赎</view>
+      <view class="i7">9.7分</view>
+      <view class="i8">2.霸王别姬</view>
+      <view class="i9">9.6分</view>
+      <view class="i10">3.阿甘正传</view>
+      <view class="i11">9.5分</view>
+    </view>
+</view>
+<view class="i3">
+    <view class="i4">
+      <image src="/img/8.png"></image>
+    </view>
+    <view class="i5">
+      <view class="i6">1.香港爱情故事</view>
+      <view class="i7">8.9分</view>
+      <view class="i8">2.守护解放西</view>
+      <view class="i9">9.2分</view>
+      <view class="i10">3.装台</view>
+      <view class="i11">8.4分</view>
+    </view>
+</view>
+<view class="i3">
+    <view class="i4">
+      <image src="/img/8.png"></image>
+    </view>
+    <view class="i5">
+      <view class="i6">1.香港爱情故事</view>
+      <view class="i7">8.9分</view>
+      <view class="i8">2.守护解放西</view>
+      <view class="i9">9.2分</view>
+      <view class="i10">3.装台</view>
+      <view class="i11">8.4分</view>
+    </view>
+</view>

@@ -1,0 +1,100 @@
+<!--index.wxml-->
+<view class="i1">
+  <input type="text" class="i2" placeholder="🔍 搜索"/>
+</view>
+
+  <view class="i3">
+    <view class="i4">
+      <view class="i6">影视热映</view>
+      <view class="i7">查看更多</view>
+      <view class="i8">></view>
+    </view>
+    <scroll-view scroll-x="true" >
+    <view class="i5">
+      <view class="i9">
+        <image src="/img/1.png" class="image"></image>
+        <view class="i10">神奇女侠1984...</view>
+        <view class="i11">★★★★★  6.6</view>
+      </view>
+      <view class="i9">
+        <image src="/img/2.png" class="image"></image>
+        <view class="i10">光语者</view>
+        <view class="i11">★★★★★  7.9</view>
+      </view>
+      <view class="i9">
+        <image src="/img/3.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+      <view class="i9">
+        <image src="/img/4.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+    </view>
+  </scroll-view>
+</view>
+
+
+<view class="i12">
+    <view class="i4">
+      <view class="i6">豆瓣热门</view>
+      <view class="i7">查看更多</view>
+      <view class="i8">></view>
+    </view>
+    <scroll-view scroll-x="true" >
+    <view class="i5">
+      <view class="i9">
+        <image src="/img/1.png" class="image"></image>
+        <view class="i10">神奇女侠1984...</view>
+        <view class="i11">★★★★★  6.6</view>
+      </view>
+      <view class="i9">
+        <image src="/img/2.png" class="image"></image>
+        <view class="i10">光语者</view>
+        <view class="i11">★★★★★  7.9</view>
+      </view>
+      <view class="i9">
+        <image src="/img/3.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+      <view class="i9">
+        <image src="/img/4.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+    </view>
+  </scroll-view>
+</view>
+<view class="i13">
+    <view class="i4">
+      <view class="i6">近期热门</view>
+      <view class="i7">查看更多</view>
+      <view class="i8">></view>
+    </view>
+    <scroll-view scroll-x="true" >
+    <view class="i5">
+      <view class="i9">
+        <image src="/img/1.png" class="image"></image>
+        <view class="i10">神奇女侠1984...</view>
+        <view class="i11">★★★★★  6.6</view>
+      </view>
+      <view class="i9">
+        <image src="/img/2.png" class="image"></image>
+        <view class="i10">光语者</view>
+        <view class="i11">★★★★★  7.9</view>
+      </view>
+      <view class="i9">
+        <image src="/img/3.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+      <view class="i9">
+        <image src="/img/4.png" class="image"></image>
+        <view class="i10">紧急救援</view>
+        <view class="i11">★★★★★  6.3</view>
+      </view>
+    </view>
+  </scroll-view>
+</view>

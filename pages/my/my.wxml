@@ -1,0 +1,28 @@
+<!--pages/my/my.wxml-->
+<!-- <view class="i1">
+    <button class="i2">登录</button>
+</view>
+<view class="i3">
+  <view class="i4">我的书影音</view>
+  <view class="i5">登录查看></view>
+</view>
+<view class="i6">
+  <view class="i7">
+    <image src="/img/9.png"></image>
+  </view>
+  
+</view> -->
+<form bindsubmit="formSubmit">
+<view>商品名称</view>
+<input type="text" name='goods_name' />
+<view>商品价格</view>
+<input type="text" name='goods_price' />
+<view>商品图片</view>
+<!-- <button bind:tap='click' name='img'>上传图片<tton> -->
+  <button form-type="submit" name='img'>提交</button>
+</form> 
+
+
+<image src="{{img}}"></image>
+
+

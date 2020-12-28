@@ -1,0 +1,104 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.i1{
+  width: 750rpx;
+  height: 100rpx;
+  background-color: #00CC33;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.i2{
+  width: 700rpx;
+  height: 70rpx;
+  background-color: white;
+  border-radius: 5px;
+  /* margin-left: 25rpx; */
+  /* margin-top: 15rpx; */
+  display: flex;
+  justify-content: center;
+}
+.i3{
+  width: 750rpx;
+  height: 400rpx;
+  /* background-color: firebrick; */
+  margin-top: 10px;
+}
+.i4{
+  width: 750rpx;
+  height: 100rpx;
+  /* background-color: gold; */
+}
+.i5{
+  width: 750rpx;
+  height: 400rpx;
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  justify-content: space-around;
+}
+.i6{
+  /* display: flex; */
+  font-size: 25px;
+  float: left;
+  margin-left: 20rpx;
+  line-height: 100rpx;
+}
+.i7{
+  /* display: flex; */
+  font-size: 25px;
+  float: left;
+  margin-left: 320rpx;
+  line-height: 100rpx; 
+  color: #00CC33;
+}
+.i8{
+  /* display: flex; */
+  font-size: 25px;
+  /* float: right; */
+  line-height: 100rpx;
+  float: left;
+  color: #00CC33;
+}
+.i9{
+  width: 230rpx;
+  height: 400rpx;
+  margin-left: 10px;
+  /* background-color: #ccc; */
+}
+.image{
+  width: 230rpx;
+  height: 300rpx;
+}
+.i10{
+  font-size: 16px;
+  font-weight: 800;
+}
+.i11{
+  margin-left: 10px;
+}
+.i12{
+  margin-top: 70px;
+}
+.i13{
+  margin-top: 10px;
+}
