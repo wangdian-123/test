@@ -1,0 +1,19 @@
+<!--pages/home/home.wxml-->
+<view class="i9">
+        <block wx:for="{{news}}" wx:for-item="item">
+          <image src="/img/1.png" class="image"></image>
+            <view class="i10">{{item.title}}...</view>
+            <view class="i11">★★★★★  {{item.comment}}</view> 
+      </block>
+</view>
+<view>评论：</view>
+<view class="section">
+  <form bindsubmit="bindFormSubmit">
+    <textarea placeholder="评论" name="textarea"/>
+    <button form-type="submit"> 提交评论 </button>
+  </form>
+  <button plain='true' open-type='share'>
+转发
+</button>
+</view>
+

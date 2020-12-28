@@ -83,6 +83,7 @@
   width: 230rpx;
   height: 400rpx;
   margin-left: 10px;
+  float: left;
   /* background-color: #ccc; */
 }
 .image{
